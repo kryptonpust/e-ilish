@@ -1,0 +1,27 @@
+{
+  "name": "chat_server",
+  "version": "1.0.0",
+  "description": "chat server using socket io",
+  "main": "server.js",
+  "scripts": {
+    "migrate": "node migrate.js",
+    "start": "node server.js",
+    "log": "node server.js > server_log.log 2> server_err.log"
+  },
+  "author": "Nafiul",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "express": "^4.16.4",
+    "image-convert": "^0.1.33",
+    "moment": "^2.24.0",
+    "nan": "^2.13.2",
+    "node-monkey": "../node-monkey",
+    "simple-node-logger": "^18.12.22",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "hat": "0.0.3",
+    "mysql": "^2.16.0"
+  }
+}

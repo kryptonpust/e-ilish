@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="menu_item_layout_min_size">48dp</dimen>
+    <dimen name="menu_item_icon_size">48dp</dimen>
+    <dimen name="menu_item_view_margin_start_end">12dp</dimen>
+    <dimen name="menu_item_badge_text_size">12sp</dimen>
+
+    <dimen name="dialog_pref_width">320dp</dimen>
+</resources>
