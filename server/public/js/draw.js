@@ -244,7 +244,7 @@ function render() {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/qubit/eelish_server/resources/js/draw.js */"./resources/js/draw.js");
+module.exports = __webpack_require__(/*! /home/programmer/eilish/eelish_server/resources/js/draw.js */"./resources/js/draw.js");
 
 
 /***/ })
